@@ -1,0 +1,41 @@
+
+[{"shopName":"Whitefield", "shopNumber":"111", "shopPostCode":"560032"},
+ {"shopName":"Whitefield", "shopNumber":"112", "shopPostCode":"560066"},
+ {"shopName":"Whitefield", "shopNumber":"113", "shopPostCode":"560102"},
+ {"shopName":"Whitefield", "shopNumber":"114", "shopPostCode":"560033"},
+ {"shopName":"Whitefield", "shopNumber":"115", "shopPostCode":"560034"},
+ {"shopName":"Whitefield", "shopNumber":"116", "shopPostCode":"560190"},
+ {"shopName":"Whitefield", "shopNumber":"117", "shopPostCode":"560032"},
+ {"shopName":"Whitefield", "shopNumber":"118", "shopPostCode":"560066"},
+ {"shopName":"Whitefield", "shopNumber":"119", "shopPostCode":"560102"},
+ {"shopName":"Whitefield", "shopNumber":"120", "shopPostCode":"560033"},
+ {"shopName":"Whitefield", "shopNumber":"121", "shopPostCode":"560001"},
+ {"shopName":"Whitefield", "shopNumber":"122", "shopPostCode":"560002"},
+ {"shopName":"Whitefield", "shopNumber":"123", "shopPostCode":"560003"},
+ {"shopName":"Whitefield", "shopNumber":"124", "shopPostCode":"560004"},
+ {"shopName":"Whitefield", "shopNumber":"125", "shopPostCode":"560005"},
+ {"shopName":"Whitefield", "shopNumber":"126", "shopPostCode":"560006"},
+ {"shopName":"Whitefield", "shopNumber":"127", "shopPostCode":"560007"},
+ {"shopName":"Whitefield", "shopNumber":"128", "shopPostCode":"560008"},
+ {"shopName":"Whitefield", "shopNumber":"129", "shopPostCode":"560009"},
+ {"shopName":"Whitefield", "shopNumber":"130", "shopPostCode":"560010"},
+ {"shopName":"Whitefield", "shopNumber":"131", "shopPostCode":"560111"},
+ {"shopName":"Whitefield", "shopNumber":"132", "shopPostCode":"560012"},
+ {"shopName":"Whitefield", "shopNumber":"133", "shopPostCode":"560013"},
+ {"shopName":"Whitefield", "shopNumber":"134", "shopPostCode":"560114"},
+ {"shopName":"Whitefield", "shopNumber":"135", "shopPostCode":"560015"},
+ {"shopName":"Whitefield", "shopNumber":"136", "shopPostCode":"560016"},
+ {"shopName":"Whitefield", "shopNumber":"137", "shopPostCode":"560117"},
+ {"shopName":"Whitefield", "shopNumber":"138", "shopPostCode":"560018"},
+ {"shopName":"Whitefield", "shopNumber":"139", "shopPostCode":"560019"},
+ {"shopName":"Whitefield", "shopNumber":"140", "shopPostCode":"560120"}
+]
+
+ShyamalPoddar
+shyamalgola1
+to find nearest place
+http://localhost:8080/findShops?currentLat=32.2030373&currentLon=-98.2097649
+//
+
+lat = 32.2030373
+-98.2097649
